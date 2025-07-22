@@ -1,0 +1,112 @@
+{
+  "P001": {
+    "id": "P001",
+    "name": "Osama",
+    "city": "Hasilpur",
+    "age": "24",
+    "Gender": "male",
+    "height": "180",
+    "weight": "80",
+    "bmi": "33",
+    "verdict": "overweight"
+  },
+  "P002": {
+    "id": "P002",
+    "name": "Ayesha",
+    "city": "Lahore",
+    "age": "30",
+    "Gender": "female",
+    "height": "165",
+    "weight": "70",
+    "bmi": "25.7",
+    "verdict": "overweight"
+  },
+  "P003": {
+    "id": "P003",
+    "name": "Ali",
+    "city": "Karachi",
+    "age": "28",
+    "Gender": "male",
+    "height": "170",
+    "weight": "85",
+    "bmi": "29.4",
+    "verdict": "overweight"
+  },
+  "P004": {
+    "id": "P004",
+    "name": "Fatima",
+    "city": "Islamabad",
+    "age": "35",
+    "Gender": "female",
+    "height": "160",
+    "weight": "55",
+    "bmi": "21.5",
+    "verdict": "normal"
+  },
+  "P005": {
+    "id": "P005",
+    "name": "Ahmed",
+    "city": "Multan",
+    "age": "40",
+    "Gender": "male",
+    "height": "175",
+    "weight": "100",
+    "bmi": "32.7",
+    "verdict": "obese"
+  },
+  "P006": {
+    "id": "P006",
+    "name": "Zainab",
+    "city": "Faisalabad",
+    "age": "22",
+    "Gender": "female",
+    "height": "155",
+    "weight": "45",
+    "bmi": "18.7",
+    "verdict": "underweight"
+  },
+  "P007": {
+    "id": "P007",
+    "name": "Hassan",
+    "city": "Peshawar",
+    "age": "50",
+    "Gender": "male",
+    "height": "172",
+    "weight": "90",
+    "bmi": "30.4",
+    "verdict": "obese"
+  },
+  "P008": {
+    "id": "P008",
+    "name": "Sara",
+    "city": "Quetta",
+    "age": "27",
+    "Gender": "female",
+    "height": "168",
+    "weight": "65",
+    "bmi": "23.0",
+    "verdict": "normal"
+  },
+  "P009": {
+    "id": "P009",
+    "name": "Bilal",
+    "city": "Rawalpindi",
+    "age": "33",
+    "Gender": "male",
+    "height": "178",
+    "weight": "75",
+    "bmi": "23.7",
+    "verdict": "normal"
+  },
+  "P010": {
+    "id": "P010",
+    "name": "Hira",
+    "city": "Gujranwala",
+    "age": "26",
+    "Gender": "female",
+    "height": "162",
+    "weight": "80",
+    "bmi": "30.5",
+    "verdict": "obese"
+  }
+}
