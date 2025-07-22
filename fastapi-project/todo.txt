@@ -1,0 +1,5 @@
+Python OOP
+decorators
+inline fn -> lambda
+list dictionary tuple 
+annotated

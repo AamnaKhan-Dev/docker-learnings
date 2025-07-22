@@ -1,8 +1,8 @@
 {
   "P001": {
     "id": "P001",
-    "name": "Osama",
-    "city": "Hasilpur",
+    "name": "Faiz",
+    "city": "Islamabad",
     "age": "24",
     "Gender": "male",
     "height": "180",
@@ -23,7 +23,7 @@
   },
   "P003": {
     "id": "P003",
-    "name": "Ali",
+    "name": "Hasnain",
     "city": "Karachi",
     "age": "28",
     "Gender": "male",
